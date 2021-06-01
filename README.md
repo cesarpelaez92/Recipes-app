@@ -1,5 +1,5 @@
-# App-almundo-hotels
-Ejercicio-fullstack-mobile a React-Native App for check hotels
+# Recipes-App
+Ejercicio-fullstack-mobile a React-Native App for view Recipes
 
 
 ### Technologies
@@ -19,8 +19,7 @@ Ejercicio-fullstack-mobile a React-Native App for check hotels
 # How to use
 
 ```
-git clone https://github.com/cesarpelaez92/app-almundo-hotels.git
-cd app-almundo-hotels
+git clone https://github.com/cesarpelaez92/Recipes-app.git
 yarn install
 ```
 # Steps to run the application
