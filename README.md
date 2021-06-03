@@ -40,3 +40,10 @@ yarn start-st
 
 3. Just wait the app open in your device
 
+4.Examples: 
+    ![Login](assets/Login.png)
+    ![Registro](assets/Registro.png)
+    ![Home](assets/Home.png)
+    ![Detalle](assets/Detalle.png)
+    ![Searcher](assets/searcher.png)
+
